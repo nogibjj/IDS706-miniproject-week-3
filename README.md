@@ -33,13 +33,9 @@ The visualizations themselves are stored in the `outputs` directory.
 
 # Visualizations
 
-### Variations of Metrics tracked by Gapminder between 1991 and 2011
+### Variations of Literacy Rates and GDP Per Capita
 
-![Variation in Metrics](/outputs/Time%20series%20of%20Metrics%20(1991%20-%202011).png)
-
-### Literacy rates in the top and bottom 20 countries (2011)
-
-![Literacy Rates](/outputs/Literacy%20Rates.png)
+![Variation in Metrics](/outputs/Scatterplot.png)
 
 # Descriptive Statistics
 
